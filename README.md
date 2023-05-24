@@ -1,6 +1,11 @@
 ### Hi there 👋
+⚡I am a physical oceanographer and data scientist.⚡
 
-<!--
+Data analysis and visualization are powerful tools for extracting insights and telling compelling stories from datasets. Let´s do it!
+🌱 I'm constantly learning.🌱 
+<!--![Thalassophilia](https://github.com/SaraSirv/SaraSirv/assets/114167199/ce9bfb5a-ebb0-47df-8f72-2a231c1ffd75)
+
+
 **SaraSirv/SaraSirv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

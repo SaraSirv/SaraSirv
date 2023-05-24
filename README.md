@@ -16,4 +16,3 @@ Computer skills:
 - SQL
 - Power BI
 - MS Office
--
